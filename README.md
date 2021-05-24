@@ -62,7 +62,7 @@ D1, D0, D4, C6, D7, E6, B4, B5, D5, C7, F1, F0, B6. Make sure to only use the Di
 
 <h3>Building the keyboard</h3>
 
-![Empty Case](https://github.com/thekevinliao/handwired-elise/blob/main/images/empty.jpg)
+![Empty Case](https://github.com/thekevinliao/handwired-elise/blob/main/images/empty_case.jpg)
 
 <p>This is the case of this keyboard. The first step is to insert the switches into the plate, making sure that they are inserted in the correct orientation (luckily with handwired builds, we can have south facing switches without any problems). This case actually uses PCB mount stabilizers, so I had to superglue the stabilizers to the side of plate. It is important to make sure that it is straight and not misaligned, or your stabilizers are not going to feel nice at all. Once you inserted all the switches, you should probably superglue them down. Although this is optional, it allows you to change keycaps without ripping out the wiring and potentially ruining your board.</p>
 
@@ -74,7 +74,7 @@ D1, D0, D4, C6, D7, E6, B4, B5, D5, C7, F1, F0, B6. Make sure to only use the Di
 
 <p>With the bottom leg, bend it towards the switch to the right of its row. On the last switch, you can just snip this leg off. For the gap in the middle, I had to use a small bit of wire to maintain a connection as the diodes were not long enough. Once you solder each diode on each switch, you can solder the rows together. The easiest way to do this is to apply a little bit of solder onto the leg of the first diode, have the two diodes touch, and then melt the solder so there is a connection. At the end, it should look something like this (I took this picture before I finished soldering the bottom row, you need wiring to cover those gaps)</p>
 
-![Finished Rows](https://github.com/thekevinliao/handwired-elise/blob/main/images/soldered_horizontal_diodes.jpeg)
+![Finished Rows](https://github.com/thekevinliao/handwired-elise/blob/main/images/soldered_horizontal_diodes.jpg)
 
 <p>Next, its time to move onto the columns. This time, you will need to use some form of wire. In my case, I used insulated wire to make sure nothing could short, but there are multiple ways to achieve this. I stripped my wire like this: (image creditted to QMK)</p>
 
@@ -82,7 +82,7 @@ D1, D0, D4, C6, D7, E6, B4, B5, D5, C7, F1, F0, B6. Make sure to only use the Di
 
 <p>These gaps will be connected to the second pin of the switch, like so: </p>
 
-![Finished Columns](https://github.com/thekevinliao/handwired-elise/blob/main/images/soldered_vertical_diodes.jpeg)
+![Finished Columns](https://github.com/thekevinliao/handwired-elise/blob/main/images/soldered_vertical_diodes.jpg)
 
 <p>Once that is done, it is finally time to connect the rows and columns on to the microcontroller. Attach a piece of wire from a row of column onto the pin you assigned it to and solder it on. Make sure that the metal parts of the wire are not touching each other or it will short and not reach the correct key properly. This can be tedious and requires careful hands, so take your time.</p>
 
