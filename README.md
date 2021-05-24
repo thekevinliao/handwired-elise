@@ -3,7 +3,8 @@
 <h2> Handwired Keyboard Project: 40% Acrylic Alice Layout </h2>
 <br />
 
- ![Finished Keyboard](/images/finished_board)
+ ![Finished Keyboard](https://github.com/thekevinliao/handwired-elise/blob/main/images/finished_board.jpeg)
+
  <ul>
     <li>Case: [Prime E Acrylic Case](https://www.etsy.com/listing/689561858/prime-e-acrylic-case?ref=shop_home_active_12&crt=1&variation0=1080073886&variation1=1553392155) (Great service, highly reccomend)</li>
     <li>Switches: Holy Chickies (Halo Stem in Cherry Mx Blue housing</li>
