@@ -38,7 +38,9 @@
 
 <h3>Creating the software</h3>
 <h4>Create your desired layout on keyboard-layout-editor and upload the JSON file to kbfirmware</h4>
+
  ![Key Layout](https://github.com/thekevinliao/handwired-elise/blob/main/images/kbfirmware_key_editor.jpg)
+ 
 <p>This will let you map the symbols you want to correspond to each key on the keyboard. This can be edited later on. Because of the compact nature of this keyboard,
 I will be using multiple layers of function keys. In the image, MO(1) is the key to change to the first layer and MO(2) is the key to the second layer, with the default layer
 being MO(0). Now that you have a keymap you are satisfied with, it's time to get to planning your handwire. </p>
