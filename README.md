@@ -10,7 +10,7 @@
     <li>Switches: Lubed and Filmed Holy Chickies (Halo Stem in Cherry Mx Blue housing</li>
     <li>Stabilizers: <a href="https://flashquark.com/product/genuine-cherry-plate-mounted-stabilizers/">Genuine Cherry Plate-Mounted Stabilizers</a>
     <li>Keycaps: <a href = "https://www.originativeco.com/products/pbt-valentine">ePBT Valentine</a></li>
-    <li>Soundtest: <a href = "https://www.youtube.com/watch?v=1XucOtVvFuE&ab_channel=Kevin"></a></li>
+    <li><a href = "https://www.youtube.com/watch?v=1XucOtVvFuE&ab_channel=Kevin">Typing Test</a></li>
  </ul>
 
  <br />
