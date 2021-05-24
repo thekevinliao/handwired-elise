@@ -86,7 +86,7 @@ D1, D0, D4, C6, D7, E6, B4, B5, D5, C7, F1, F0, B6. Make sure to only use the Di
 
 <p>Once that is done, it is finally time to connect the rows and columns on to the microcontroller. Attach a piece of wire from a row of column onto the pin you assigned it to and solder it on. Make sure that the metal parts of the wire are not touching each other or it will short and not reach the correct key properly. This can be tedious and requires careful hands, so take your time.</p>
 
-![Finished Micro](https://github.com/thekevinliao/handwired-elise/blob/main/images/soldered_to_microcontroller.jpeg)
+![Finished Micro](https://github.com/thekevinliao/handwired-elise/blob/main/images/soldered_to_microcontroller.jpg)
 
 <p>And just like that, if nothing went wrong, your keyboard should be good to flask</p>
 
